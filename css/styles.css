@@ -415,9 +415,9 @@ h1,h2,h3,h4,h5,h6,p{
     width: 168px;
     height: 88px;
     padding: 16px 32px;
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .company-link-item:hover,
 .company-link-item:focus{
