@@ -342,7 +342,6 @@ h1,h2,h3,h4,h5,h6,p{
 .features-icon-fun{
     background-color:rgba(244, 244, 253, 1);
     border-radius:4px;
-    display: inline-block;
     height: 112px;
     display: flex;
     align-items: center;
