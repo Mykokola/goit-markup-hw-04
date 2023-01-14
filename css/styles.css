@@ -375,9 +375,10 @@ h1,h2,h3,h4,h5,h6,p{
     width: 40px;
     height: 40px;
     background:#4D5AE5;
-    display: block;
-    padding: 12px;
     border-radius:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .social-contact:hover,
 .social-contact:focus{
